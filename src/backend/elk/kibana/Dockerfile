@@ -1,5 +1,5 @@
 # https://github.com/elastic/kibana-docker
-FROM kibana:7.10.1
+FROM kibana:7.17.21
 
 # Add your kibana plugins setup here
 # Example: RUN kibana-plugin install <name|url>
